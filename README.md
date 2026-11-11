@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in South Africa, covering official tourism portals, national parks, wildlife reserves, rail journeys, and regional guides.
 
+South Africa is a diverse southernmost African destination offering spectacular wildlife reserves, dramatic coastal peninsulas, historic wine estates, and rugged mountain ranges. This list is intended for wildlife safari travelers, outdoor adventurers, road-trip explorers, and cultural historians.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
